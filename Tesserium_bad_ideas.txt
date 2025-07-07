@@ -1,0 +1,4 @@
+# Tesserium_bad_ideas
+1. nemelex worshippers get better rng | code2828, July 5, 2025
+  e.g. weapon dmg roll twice, and taking (higher one*2/3+lower one/3) | code2828, July 5, 2025
+2. ?acq should be able to guve u another ?acq | code2828, July 5, 2025
