@@ -13,3 +13,4 @@
   (Suggested to be an entry by: bignoob)
 5. !teach tesserium_bad_ideas[5 Creating a repo on github just for tesserium bad ideas | code2828, July 14, 2025
 6. fr: chinese players need to turn on vpn before casting Discord | code2828, July 5, 2025 (submitted on July 14, 2025)
+7. there should be !id along with ?id to encourage blind id of !s | bignoob, September 13, 2025 (submitted on September 15, 2025)
