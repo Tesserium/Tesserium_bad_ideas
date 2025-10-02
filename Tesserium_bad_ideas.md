@@ -1,15 +1,15 @@
 # Tesserium_bad_ideas
-1. nemelex worshippers get better rng | code2828, July 5, 2025
+1. nemelex worshippers get better rng | code2828, July 5, 2025\
   e.g. weapon dmg roll twice, and taking (higher one*2/3+lower one/3) | code2828, July 5, 2025
 2. ?acq should be able to guve u another ?acq | code2828, July 5, 2025
-3. i rly want to make a "random dict" | code2828, July 8, 2025
-  that collects every variant of "random" we ahve said | code2828, July 8, 2025
+3. i rly want to make a "random dict" | code2828, July 8, 2025\
+  that collects every variant of "random" we ahve said | code2828, July 8, 2025\
   (Suggested to be an entry by: bignoob)
-4. Yak-3U | 1n5z, July 14, 2025 
-  new monster: yak-47 | code2828, July 14, 2025
-  artefact hand cannon wielding yaktaur captain | code2828, July 14, 2025
-  that's too op | bignoob, July 14, 2025
-  i mean for player | bignoob, July 14, 2025
+4. Yak-3U | 1n5z, July 14, 2025 \
+  new monster: yak-47 | code2828, July 14, 2025\
+  artefact hand cannon wielding yaktaur captain | code2828, July 14, 2025\
+  that's too op | bignoob, July 14, 2025\
+  i mean for player | bignoob, July 14, 2025\
   (Suggested to be an entry by: bignoob)
 5. !teach tesserium_bad_ideas[5 Creating a repo on github just for tesserium bad ideas | code2828, July 14, 2025
 6. fr: chinese players need to turn on vpn before casting Discord | code2828, July 5, 2025 (submitted on July 14, 2025)
@@ -26,5 +26,5 @@
 17. two-headed everything | 1n5z, October 1, 2025 (submitted on October 2, 2025)
 18. we shall have potions of resist damnation, potion of damage shaving | code2828, October 1, 2025 (submitted on October 2, 2025)
 19. Oneirical the felid summoner of jiyve, u turn into slime form if u get hit by slimify, spawns during the orb run or sth | code2828, October 1, 2025 (submitted on October 2, 2025)
-20. i think we shall make tesserium_bad_ideas.txt a .md | 1n5z, October 2, 2025
-  to insert images or links | 1n5z, October 2, 2025
+20. i think we shall make tesserium_bad_ideas.txt a .md | 1n5z, October 2, 2025\
+  to insert images or links | 1n5z, October 2, 2025 (completed on October 2, 2025 - so fast!)
