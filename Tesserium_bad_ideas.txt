@@ -26,3 +26,5 @@
 17. two-headed everything | 1n5z, October 1, 2025 (submitted on October 2, 2025)
 18. we shall have potions of resist damnation, potion of damage shaving | code2828, October 1, 2025 (submitted on October 2, 2025)
 19. Oneirical the felid summoner of jiyve, u turn into slime form if u get hit by slimify, spawns during the orb run or sth | code2828, October 1, 2025 (submitted on October 2, 2025)
+20. i think we shall make tesserium_bad_ideas.txt a .md | 1n5z, October 2, 2025
+  to insert images or links | 1n5z, October 2, 2025
