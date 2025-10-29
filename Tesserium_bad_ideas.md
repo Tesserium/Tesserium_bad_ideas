@@ -29,3 +29,4 @@
 19. Oneirical the felid summoner of jiyve, u turn into slime form if u get hit by slimify, spawns during the orb run or sth | code2828, October 1, 2025 (submitted on October 2, 2025)
 20. i think we shall make tesserium_bad_ideas.txt a .md | 1n5z, October 2, 2025\
   to insert images or links | 1n5z, October 2, 2025 (completed on October 2, 2025 - so fast!)
+21. markselves should get an ability 'mark self' | code2828, October 21, 2025 (submitted on October 29, 2025)
