@@ -30,3 +30,5 @@
 20. i think we shall make tesserium_bad_ideas.txt a .md | 1n5z, October 2, 2025\
   to insert images or links | 1n5z, October 2, 2025 (completed on October 2, 2025 - so fast!)
 21. markselves should get an ability 'mark self' | code2828, October 21, 2025 (submitted on October 29, 2025)
+22. extended orc: optional much harder Orc:3-7, with more orc variants and harder mobs | 1n5z, April 1, 2026
+23. v5crawl: ever floor is Vaults:5 layout, give ?tele at game start | some day in late March, 2026 (submitted on April 1, 2026)
